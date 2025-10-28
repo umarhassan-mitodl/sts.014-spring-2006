@@ -6,8 +6,6 @@ description: An Inaugural Lecture given by John Durant, Professor of Public Unde
 file: /courses/sts-014-principles-and-practice-of-science-communication-spring-2006/72ff7c527fa80cccce3493acef455c0b_durant_newagenda.pdf
 file_size: 371157
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
